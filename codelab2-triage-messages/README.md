@@ -20,3 +20,8 @@ Para correr el programa usar el siguiente comando:
 ```bash
 python main.py
 ```
+
+## Resultados
+
+### Clasificación de mensajes
+![Clasificación de mensajes](/codelab2-triage-messages/images/clasificacion-mensajes.png)

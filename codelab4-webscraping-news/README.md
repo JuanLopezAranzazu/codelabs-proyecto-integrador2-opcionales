@@ -31,3 +31,8 @@ Para correr el programa usar el siguiente comando:
 ```bash
 python main.py
 ```
+
+## Resultados
+
+### Resultado Scraping de Noticias
+![Resultado Scraping de Noticias](/codelab4-webscraping-news/images/resultado-scraping-noticias.png)

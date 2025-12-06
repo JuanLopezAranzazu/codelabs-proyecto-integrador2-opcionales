@@ -20,3 +20,11 @@ Para correr el programa usar el siguiente comando:
 ```bash
 python main.py
 ```
+
+## Resultados
+
+### Clasificación de spam/estafa
+![Clasificación de spam/estafa](/codelab3-scam-detector/images/clasificacion-spam.png)
+
+### Curva Precisión-Recall
+![Curva Precisión-Recall](/codelab3-scam-detector/images/curva-precision-recall.png)

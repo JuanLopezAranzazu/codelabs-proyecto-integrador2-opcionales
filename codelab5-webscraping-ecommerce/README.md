@@ -31,3 +31,8 @@ Para correr el programa usar el siguiente comando:
 ```bash
 python main.py
 ```
+
+## Resultados
+
+### Resultado Scraping de E-commerce
+![Resultado Scraping de E-commerce](/codelab5-webscraping-ecommerce/images/resultado-scraping-ecommerce.png)
